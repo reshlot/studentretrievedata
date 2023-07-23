@@ -1,0 +1,8 @@
+D:\Simplilearn\Main Projects\StudentDataRetrieval\StudentDataRetrieval\bin\Debug\StudentDataRetrieval.exe.config
+D:\Simplilearn\Main Projects\StudentDataRetrieval\StudentDataRetrieval\bin\Debug\StudentDataRetrieval.exe
+D:\Simplilearn\Main Projects\StudentDataRetrieval\StudentDataRetrieval\bin\Debug\StudentDataRetrieval.pdb
+D:\Simplilearn\Main Projects\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\StudentDataRetrieval.csproj.AssemblyReference.cache
+D:\Simplilearn\Main Projects\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\StudentDataRetrieval.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Main Projects\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\StudentDataRetrieval.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Main Projects\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\StudentDataRetrieval.exe
+D:\Simplilearn\Main Projects\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\StudentDataRetrieval.pdb
